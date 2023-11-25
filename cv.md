@@ -9,10 +9,10 @@
 
 ## My contacts
 
-+ [E-mail](nosanya1@gmail.com)
-+ [Github](https://github.com/nosanya1)
++ **E-mail**: nosanya1@gmail.com 
++ **Discord**: aleksandra_nosnikova_39249 
 + [Telegram](https://t.me/Aleksandra_Nosnikova)
-+ [Discord](aleksandra_nosnikova_39249)
++ [Github](https://github.com/nosanya1)
 
 ---
 
