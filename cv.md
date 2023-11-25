@@ -28,7 +28,14 @@ Course: Front-end development technologies *(Certificate of Advanced training)*;
 
 ## My hard skills :muscle:
 
-*TODO*
++ Git, Github
++ HTML5 && CSS (SASS/SCSS, BEM, Bootstrap, Tailwind, Material Design)
++ JS (JQuery, React (basic), Node.js, Parcel, Vite, webpack)
++ VS Code, IntelliJ IDEA, Xcode (for React Native)
++ Chrome DevTools, Playwright, Puppeteer
++ Figma, Sketch, Photoshop, Illustrator
++ MacOS, Linux (Ubuntu/Debian, OpenSuse)
++ Docker, Podman, Kubernetes (minikube)
 
 ---
 
