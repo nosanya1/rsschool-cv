@@ -83,10 +83,10 @@ function solution(number) {
 
 ## Languages
 
-+ __Russian__ \- Native (*no progress*)
-+ __English__ \- A2/B1 (*in progress*)
-+ __Português__ \- А2 (*in progress*) 
-+ __Español__ \- A1
++ :ru: __Russian__ \- Native (*no progress*)
++ :us: __English__ \- A2/B1 (*in progress*)
++ :brazil: __Português__ \- А2 (*in progress*) 
++ :es: __Español__ \- A1
 
 --
 
