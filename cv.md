@@ -41,7 +41,11 @@ Course: Front-end development technologies *(Certificate of Advanced training)*;
 
 ## My soft skills :angel:
 
-*TODO*
++ Communication skills
++ Self-motivation
++ Friendliness
++ Good sense of humour
++ I'm not afraid to take responsibility
 
 ---
 
