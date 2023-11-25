@@ -12,6 +12,7 @@
 + [E-mail](nosanya1@gmail.com)
 + [Github](https://github.com/nosanya1)
 + [Telegram](https://t.me/Aleksandra_Nosnikova)
++ [Discord](aleksandra_nosnikova_39249)
 
 ---
 
