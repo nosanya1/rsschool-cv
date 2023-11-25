@@ -42,7 +42,7 @@
 
 ## Project
 
-*TODO*
+* [CV](https://nosanya1.github.io/rsschool-cv/cv)
 
 ---
 
