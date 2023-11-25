@@ -73,7 +73,6 @@ function solution(number) {
     return arr;
 }
 ```
-
 ---
 
 ## Project
@@ -81,6 +80,15 @@ function solution(number) {
 * [CV](https://nosanya1.github.io/rsschool-cv/cv)
 
 ---
+
+## Languages
+
++ __Russian__ \- Native (*no progress*)
++ __English__ \- A2/B1 (*in progress*)
++ __Português__ \- А2 (*in progress*) 
++ __Español__ \- A1
+
+--
 
 ## Hobbies
 
