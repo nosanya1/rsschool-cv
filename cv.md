@@ -88,10 +88,10 @@ function solution(number) {
 + :brazil: __Português__ \- А2 (*in progress*) 
 + :es: __Español__ \- A1
 
---
+---
 
 ## Hobbies
 
 + Cooking
-+ Hacking
++ ~~Hacking~~ Hiking
 + Rollerblading
