@@ -26,7 +26,7 @@ Course: Front-end development technologies *(Certificate of Advanced training)*;
 
 ---
 
-## My hard skills :muscle:
+## My hard skills
 
 + Git, Github
 + HTML5 && CSS (SASS/SCSS, BEM, Bootstrap, Tailwind, Material Design)
@@ -39,7 +39,7 @@ Course: Front-end development technologies *(Certificate of Advanced training)*;
 
 ---
 
-## My soft skills :angel:
+## My soft skills
 
 + Communication skills
 + Self-motivation
@@ -83,10 +83,10 @@ function solution(number) {
 
 ## Languages
 
-+ :ru: __Russian__ \- Native (*no progress*)
-+ :us: __English__ \- A2/B1 (*in progress*)
-+ :brazil: __Português__ \- А2 (*in progress*) 
-+ :es: __Español__ \- A1
++ __Russian__ \- Native (*no progress*)
++ __English__ \- A2/B1 (*in progress*)
++ __Português__ \- А2 (*in progress*) 
++ __Español__ \- A1
 
 ---
 
