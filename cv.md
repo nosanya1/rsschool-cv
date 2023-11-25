@@ -92,6 +92,6 @@ function solution(number) {
 
 ## Hobbies
 
-*TODO*
-
----
++ Cooking
++ Hacking
++ Rollerblading
