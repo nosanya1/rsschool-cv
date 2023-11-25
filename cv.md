@@ -18,7 +18,11 @@
 
 ## Education
 
-*TODO*
++ **University**: Krasnoyarsk State Pedagogical University named after V. P. Astafyev (KSPU),\
+*Specialist Diploma*;
++ Private Educational Institution of additional professional education Business School "INOPROF",\
+Course: Front-end development technologies *(Certificate of Advanced training)*;
++ Course: RS Schools Course «JavaScript/Front-end 2023Q4» *(in progress)*; 
 
 ---
 
