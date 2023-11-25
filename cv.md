@@ -4,11 +4,14 @@
 ## About me
 
 *TODO*
+
 ---
 
 ## My contacts
 
-*TODO*
++ [E-mail](nosanya1@gmail.com)
++ [Github](https://github.com/nosanya1)
++ [Telegram](https://t.me/Aleksandra_Nosnikova)
 
 ---
 
@@ -45,3 +48,5 @@
 ## Hobbies
 
 *TODO*
+
+---
