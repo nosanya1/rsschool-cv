@@ -1,14 +1,15 @@
 
 # Aleksandra Nosnikova
 ![It is a picture of me](assets/images/cv-278x278.jpg)
-## About me
+
+## &#128308; About me 
 
 I was born and raised in the city of Krasnoyarsk in Siberia and graduated from a local university. As a front-end developer, I have an irresistible desire to improve my programming skills. 
 My objective is to expand my knowledge in this field, interact with new people, take part in interesting projects, discover my potential, get a job as a full-stack developer at a big tech company, and, in the year 2025, come back to RS School as a mentor to pass on my knowledge to the next generation of students! &#128521; 
 
 ---
 
-## My contacts &#128236;
+## &#64; My contacts 
 
 + **E-mail**: nosanya1@gmail.com 
 + **Discord**: aleksandra_nosnikova_39249 
@@ -17,7 +18,7 @@ My objective is to expand my knowledge in this field, interact with new people, 
 
 ---
 
-## Education &#127979;
+## &#10003; Education 
 
 + **University**: Krasnoyarsk State Pedagogical University named after V. P. Astafyev (KSPU),\
 *Specialist Diploma*;
@@ -27,7 +28,7 @@ My objective is to expand my knowledge in this field, interact with new people, 
 
 ---
 
-## My hard skills &#128170;
+## &#10003; Hard skills 
 
 + Git, Github
 + HTML5 && CSS (SASS/SCSS, BEM, Bootstrap, Tailwind, Material Design)
@@ -40,7 +41,7 @@ My objective is to expand my knowledge in this field, interact with new people, 
 
 ---
 
-## My soft skills &#128519;
+## &#10003; Soft skills 
 
 + Communication skills
 + Self-motivation
@@ -50,7 +51,7 @@ My objective is to expand my knowledge in this field, interact with new people, 
 
 ---
 
-## Code example
+## &#10003; Code example
 
 ```javascript
 /* ---- Fizz/Buzz (7kyu) ----
@@ -76,13 +77,13 @@ function solution(number) {
 ```
 ---
 
-## Project
+## &#10003; Project
 
 * [CV](https://nosanya1.github.io/rsschool-cv/cv)
 
 ---
 
-## Languages
+## &#10003; Languages
 
 + __Russian__ \- Native (*no progress*)
 + __English__ \- A2/B1 (*in progress*)
@@ -91,7 +92,7 @@ function solution(number) {
 
 ---
 
-## Hobbies
+## &#10003; Hobbies
 
 + Cooking
 + ~~Hacking~~ Hiking
