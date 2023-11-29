@@ -3,7 +3,7 @@
 ![It is a picture of me](assets/images/cv-278x278.jpg)
 ## About me
 
-I was born and raised in the city of Krasnoyarsk in Siberia and graduated from a local university. As a front-end developer, I have an irresistible desire to improve my programming skills. &#128293;
+I was born and raised in the city of Krasnoyarsk in Siberia and graduated from a local university. As a front-end developer, I have an irresistible desire to improve my programming skills. 
 My objective is to expand my knowledge in this field, interact with new people, take part in interesting projects, discover my potential, get a job as a full-stack developer at a big tech company, and, in the year 2025, come back to RS School as a mentor to pass on my knowledge to the next generation of students! &#128521; 
 
 ---
