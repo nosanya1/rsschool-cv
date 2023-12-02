@@ -180,4 +180,20 @@ html {
     line-height: 24px;
   }
 
+  .skills {
+    margin-bottom: 54px;
+  }
+  .skills__list {
+    margin: 0px 60px;
+    padding: 0;
+    padding-left: 20px;
+  }
   
+  .key-strengths {
+    margin-bottom: 54px;
+  }
+  .key-strengths__list {
+    margin: 0px 60px;
+    padding: 0;
+    padding-left: 20px;
+  }
