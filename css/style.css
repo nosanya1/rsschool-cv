@@ -1,24 +1,55 @@
 html {
-    font-family: sans-serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    scroll-behavior: smooth;
+   scroll-behavior: smooth;
 }
+.page {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: black;
+  }
+  .page-body {
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .page-body a {
+    color: white;
+  }
+  .page-body a:hover,
+  .page-body a:focus {
+    text-decoration: none;
+  }
+  .page-body a:active {
+    color:rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+  }
+  .section-title {
+    position: relative;
+    margin: 0;
+    margin-bottom: 36px;
+    padding-left: 60px;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .section-title::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 3px;
+    height: 36px;
+    background-color: #f26500;
+  }
 
-body {
-    margin: 0
-}
+  
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-main,
-menu,
-nav,
-section {
-    display: block
-}
+
