@@ -196,19 +196,19 @@ body.scroll {
 }
 
 .link__telegram::before {
-  content: url(assets/icons/telegram.svg);
+  content: url(../assets/icons/telegram.svg);
 }
 
 .link__github::before {
-  content: url(assets/icons/github.svg);
+  content: url(../assets/icons/github.svg);
 }
 
 .link__mail::before {
-  content: url(assets/icons/mail.svg);
+  content: url(../assets/icons/mail.svg);
 }
 
 .link__discord::before {
-  content: url(assets/icons/discord.svg);
+  content: url(../assets/icons/discord.svg);
 }
 
 .lang__item+.lang__item {
