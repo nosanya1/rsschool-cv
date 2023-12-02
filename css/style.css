@@ -279,4 +279,13 @@ html {
     background-color: #ccc;
   }
 
+  .footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding: 20px 60px 20px 60px;
+    color: white;
+    background-color: #e9552c;
+  }
+
   
