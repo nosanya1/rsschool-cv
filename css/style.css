@@ -127,4 +127,21 @@ html {
     display: block;
   }
 
+  .education {
+    padding: 54px 0px 54px 0px;
+  }
+  .education__list {
+    margin: 0;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 0;
+    list-style: none;
+  }
+  .education__item {
+    margin-bottom: 25px;
+  }
+  .education__item:last-child {
+    margin-bottom: 0;
+  }
+  
   
