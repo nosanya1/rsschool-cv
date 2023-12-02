@@ -145,6 +145,43 @@
                         </ul>
                       </section>
 
+                      <section class="code-example" id="code-example">
+                        <h2 class="section-title">Code example</h2>
+                        <details>
+                          <summary>Codewars Fizz/Buzz</summary>
+                          <pre>
+                      <code data-language = "javascript">
+                /*
+                    Write a function that takes an integer
+                      and returns an array [A, B, C].
+                    A is the number of multiples of 3 (but not 5) 
+                      below the given integer.
+                    B is the number of multiples of 5 (but not 3)
+                      below the given integer.
+                  1    C is the number of multiples of 3 and 5
+                      below the given integer.
+                    For example, solution(20) should return 
+                      [5, 2, 1]. 
+                */    
+                        function solution(number) {
+                            const arr = [0, 0, 0];
+                            for (let i = 1; i &lt; number; i++) {
+                                if (i % 3 === 0 &#38;&#38; i % 5 === 0) {
+                                    arr[2]++;
+                                } else if (i % 5 === 0) {
+                                    arr[1]++;
+                                } else if (i % 3 === 0) {
+                                    arr[0]++;
+                                }
+                            }
+                            return arr;
+                        }
+                       </code>
+                      </pre>
+                    </details>
+                   </section>
+                
+
 
                   </div>
 
