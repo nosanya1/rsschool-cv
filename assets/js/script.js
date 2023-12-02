@@ -1,16 +1,17 @@
+document.addEventListener('DOMContentLoaded', () => {
+  'use strict';
 
-const burgerButton = document.querySelector('.burger');
-const burgerNav = document.querySelector('.nav');
-const body = document.querySelector('body');
-const links = document.querySelectorAll('.nav__item');
+  const hamburger = document.querySelector('.hamburger');
+  const header = document.querySelector('.header');
+  const menuLink = document.querySelectorAll('.menu__link');
 
-burgerButton.addEventListener('click', toggleMenu);
-[...links].forEach((link) => {
-  link.addEventListener('click', toggleMenu);
-})
+  hamburger.addEventListener('click',() => {
+    header.classList.toggle('header--active');
+    document.body.classList.toggle('scroll');
+  });
 
-function toggleMenu () {
-  burgerButton.classList.toggle('active');
-  burgerNav.classList.toggle('active');
-  body.classList.toggle('lock');
-}
+  menuLink.forEach(elem => elem.addEventListener('click', () => {
+    header.classList.remove('header--active');
+    document.body.classList.remove('scroll');
+  }));
+});
