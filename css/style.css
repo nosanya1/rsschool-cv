@@ -106,4 +106,25 @@ html {
     background-color: rgba(255, 255, 255, 0.1);
   } 
 
+  .contact {
+    padding: 44px 0px 54px 0px;
+    background-color: #343945;
+  }
+  .contact__list {
+    list-style: none;
+    margin: 0;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 0;
+  }
+  .contact__item {
+    margin-bottom: 25px;
+  }
+  .contact__item:last-child {
+    margin-bottom: 0;
+  }
+  .contact__item a {
+    display: block;
+  }
+
   
