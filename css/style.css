@@ -50,6 +50,11 @@ html {
     background-color: #f26500;
   }
 
-  
+  .nav a,
+  .projects__title,
+  .projects__title:after,
+  .projects__item:hover .projects__image {
+    transition: all 0.3s ease 0s;
+  }
 
 
